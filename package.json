@@ -1,0 +1,26 @@
+{
+  "name": "magicFormulaBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/te4-alexander-kjellberg1/magicFormulaBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/te4-alexander-kjellberg1/magicFormulaBot/issues"
+  },
+  "homepage": "https://github.com/te4-alexander-kjellberg1/magicFormulaBot#readme"
+}
