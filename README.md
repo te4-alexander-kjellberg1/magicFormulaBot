@@ -1,6 +1,6 @@
 #  💫✨Magic ✨Formula 💫 Checker Bot✨✨
 
-> 1. Clone repo
+#### 1. Clone repo
 > 2. npm i puppeteer
 > 3. npm install dotenv
 
