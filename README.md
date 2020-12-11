@@ -5,6 +5,6 @@
 
 3. Add .env with containing your Börsdata credentials
   write cridentians like this:
-> USERNAME=yourUsernameHere
-.
-> PASSWORD=yourPasswordHere
+## USERNAME=yourUsernameHere
+>.
+## PASSWORD=yourPasswordHere
