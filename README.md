@@ -1,6 +1,6 @@
 # Magic Formula Checker Bot
 
-1. npm i puppeteer
+> 1. npm i puppeteer
 2. npm install dotenv
 
 3. Add .env with containing your Börsdata credentials
