@@ -1,4 +1,4 @@
-# magicFormulaBot
+# Magic Formula Checker Bot
 
 1. npm i puppeteer
 2. npm install dotenv
