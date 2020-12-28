@@ -9,3 +9,7 @@
 #### USERNAME=yourUsernameHere
 
 #### PASSWORD=yourPasswordHere
+
+
+To run: 
+  * node index.js
